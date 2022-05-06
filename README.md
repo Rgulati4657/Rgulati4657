@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there  👋Myself Deepanshu
+## Hi there  👋i'm raghav
 
 - 🔭 I’m currently working on sharpening my programming skills 
 - 🌱 I’m currently learning **python**
