@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on sharpening my programming skills 
 - 🌱 I’m currently learning **Java**
-- - 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on open source projects
 
 ### Languages
